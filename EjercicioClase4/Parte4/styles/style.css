@@ -1,0 +1,21 @@
+#contenedor {
+    width: 700px;
+    color: brown;
+    }
+    #cabecera {
+        color: green;
+        visibility: hidden;
+    }
+    #menu {
+    float: right;
+    width: 150px;
+    color: purple;
+    }
+    #contenido {
+    float: left;
+    width: 550px;
+    color: gray;
+    }
+    #pie {
+    clear: both;
+    }

@@ -1,0 +1,11 @@
+/* Estilo de la barra lateral */
+aside {
+    width: 20%;
+    background: #f4f4f4;
+    padding: 1rem;
+    }
+/* Estilo del artículo */
+article {
+    width: 75%;
+    padding: 1rem;
+    }

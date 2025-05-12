@@ -1,0 +1,12 @@
+@import url('estilitos/header.css');
+@import url('estilitos/main.css');
+@import url('estilitos/sidebar.css');
+@import url('estilitos/footer.css');
+
+* {
+    box-sizing: border-box;
+    }
+    body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    }
